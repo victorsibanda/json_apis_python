@@ -28,3 +28,5 @@ resq = requests.get(url)
 # print(output['outcode'])
 # print(output['longitude'])
 # print(output['latitude'])
+
+#Make a program that ask for postcode and prints back specific info
